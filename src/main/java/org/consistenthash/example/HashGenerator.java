@@ -7,7 +7,7 @@ import java.security.NoSuchAlgorithmException;
  * 
  * 创建日期:2015年6月26日
  * <br />一致性Hash 
- * @author 张凯
+ * @author leo
  * @mender：（文件的修改者，文件创建者之外的人）
  * @version 1.0
  * Remark：
@@ -23,7 +23,7 @@ public class HashGenerator {
 	/**
 	 * 
 	 * 功能:MD5 Hash
-	 *<br /> 作者: 张凯
+	 *<br /> 作者: leo
 	 * <br />创建日期:2015年6月26日
 	 * <br />修改者: mender
 	 * <br />修改日期: modifydate
@@ -48,7 +48,7 @@ public class HashGenerator {
 	/**
 	 * 
 	 * 功能:将二进制的长整数转换为16进制的数字，以字符串表示
-	 *<br /> 作者: 张凯
+	 *<br /> 作者: leo
 	 * <br />创建日期:2015年6月26日
 	 * <br />修改者: mender
 	 * <br />修改日期: modifydate
