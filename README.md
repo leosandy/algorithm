@@ -1,2 +1,2 @@
 # algorithm
-about algorithm
+consistent hash from internate
