@@ -1,8 +1,3 @@
-/**
- * Copyright(c)2015 bw30 Co., Ltd.
- * All right reserved.
- * <br />创建日期:2015年6月26日
- */
 
 package org.consistenthash.example;
 
