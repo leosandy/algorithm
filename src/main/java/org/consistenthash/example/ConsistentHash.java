@@ -14,7 +14,7 @@ import java.util.TreeMap;
 /**
  * 创建日期:2015年6月26日
  * <br />Description：对本文件的详细描述，原则上不能少于50字
- * @author 张凯
+ * @author leo
  * @mender：（文件的修改者，文件创建者之外的人）
  * @version 1.0
  * Remark：认为有必要的其他信息
@@ -42,7 +42,7 @@ public class ConsistentHash<T> {
 	/**
 	 * 
 	 * 功能:添加虚拟节点到闭环
-	 *<br /> 作者: 张凯
+	 *<br /> 作者: leo
 	 * <br />创建日期:2015年6月26日
 	 * <br />修改者: mender
 	 * <br />修改日期: modifydate
@@ -59,7 +59,7 @@ public class ConsistentHash<T> {
 	/**
 	 * 
 	 * 功能:删除节点
-	 *<br /> 作者: 张凯
+	 *<br /> 作者: leo
 	 * <br />创建日期:2015年6月26日
 	 * <br />修改者: mender
 	 * <br />修改日期: modifydate
@@ -76,7 +76,7 @@ public class ConsistentHash<T> {
 	/**
 	 * 
 	 * 功能:通过Key获取服务节点
-	 *<br /> 作者: 张凯
+	 *<br /> 作者: leo
 	 * <br />创建日期:2015年6月26日
 	 * <br />修改者: mender
 	 * <br />修改日期: modifydate
